@@ -1,0 +1,6 @@
+{
+    "middleware.invalid_app_auth_header" : "Invalid Mattermost app authorization token",
+    "middleware.missing_acting_user_id": "Missing acting user id in context",
+    "middleware.missing_app_auth_header": "Missing Mattermost app authorization header",
+    "middleware.missing_context": "Missing context in body"
+}
